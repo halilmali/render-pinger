@@ -2,7 +2,7 @@ name: Wake Up Render
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Every 10 minutes
+    - cron: '*/4 * * * *' # Every 4 minutes
   workflow_dispatch: # Allows manual triggering
 
 jobs:
