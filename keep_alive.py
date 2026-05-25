@@ -6,7 +6,7 @@ from datetime import datetime
 URL = "https://nine626-topical-questions.onrender.com/"
 
 # Interval in minutes
-INTERVAL_MINUTES = 5
+INTERVAL_MINUTES = 14
 INTERVAL_SECONDS = INTERVAL_MINUTES * 60
 
 def visit_url():
